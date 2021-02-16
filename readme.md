@@ -22,10 +22,6 @@
 
 5. Source: https://www.kaggle.com/gilsousa/habermans-survival-data-set
 
----
-
 ## Objective:
 
 Using patient's age, year of operation and number of nodes to predict whether the patient will survive for 5 years or not.
-
----
