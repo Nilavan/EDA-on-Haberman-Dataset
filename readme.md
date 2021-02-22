@@ -18,6 +18,6 @@
 - Number of positive axillary nodes detected (numerical)
 - Survival status (class attribute)
   - 1 = the patient survived 5 years or longer
-  - 2 = the patient died within 5 year
+  - 2 = the patient died within 5 years
 
 5. Source: https://www.kaggle.com/gilsousa/habermans-survival-data-set
