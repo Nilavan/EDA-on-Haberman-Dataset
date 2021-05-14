@@ -1,4 +1,4 @@
-# EDA on Haberman's cancer survival dataset
+<h1 align="center"> EDA on Haberman's cancer survival dataset </h1>
 
 ## About the dataset:
 
@@ -21,3 +21,21 @@
   - 2 = the patient died within 5 years
 
 5. Source: https://www.kaggle.com/gilsousa/habermans-survival-data-set
+
+## EDA steps:
+
+1. High level statistics
+   - [x] Number of points and features
+   - [x] Features
+   - [x] Number of classes and data-points per class
+   - [x] Mean, median, variance and standard deviation for each class
+   - [x] Quantiles, Percentiles, Mean Absolute Deviation
+2. Univariate analysis
+   - [x] Histograms
+   - [x] PDF and CDF
+   - [x] Box plots and whiskers
+   - [x] Violin plot
+3. Bivariate analysis
+   - [x] Scatter plots
+   - [x] Pairplot
+   - [x] Contour plot
